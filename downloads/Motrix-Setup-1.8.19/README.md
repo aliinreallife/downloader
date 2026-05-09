@@ -1,4 +1,4 @@
-# Motrix-Setup-1.8.19.exe - Download Failed
+# Motrix-Setup-1.8.19
 
 ---
 
@@ -6,29 +6,29 @@
 
 | Property | Value |
 |----------|-------|
-| **File** | `Motrix-Setup-1.8.19.exe` |
-| **URL** | https://github.com/amir1376/ab-download-manager/releases/download/v1.8.8/ABDownloadManager_1.8.8_windows_x64.zip,https://github.com/agalwood/Motrix/releases/download/v1.8.19/Motrix-Setup-1.8.19.exe |
-| **Date** | 2026-05-09 06:49:50 UTC |
-| **Status** | **FAILED** |
+| **Original File** | `Motrix-Setup-1.8.19.exe` |
+| **Total Size** | **3 parts** - **121.81 MB** |
+| **Status** | **Complete (100%)** |
+| **Password Protected** | **YES** |
 
 ---
 
-## Error Details
+## Download Links
 
-```
-Download failed after 3 attempts. Last error: curl: (22) The requested URL returned error: 404
-```
+| # | File | Link |
+|---|------|------|
+| 1 | `Motrix-Setup-1.8.19.z01` | [Download](https://github.com/aliinreallife/downloader/raw/main/downloads/Motrix-Setup-1.8.19/Motrix-Setup-1.8.19.z01) |
+| 2 | `Motrix-Setup-1.8.19.z02` | [Download](https://github.com/aliinreallife/downloader/raw/main/downloads/Motrix-Setup-1.8.19/Motrix-Setup-1.8.19.z02) |
+| 3 | `Motrix-Setup-1.8.19.zip` | [Download](https://github.com/aliinreallife/downloader/raw/main/downloads/Motrix-Setup-1.8.19/Motrix-Setup-1.8.19.zip) |
 
 ---
 
-## Possible Solutions
+## How to Extract
 
-- Check if the URL is correct and accessible
-- The file may have been removed or moved
-- The server may require authentication
-- For SourceForge: Try using the direct download link
-- Some servers block automated downloads (403 Forbidden)
-- Try again later if it is a temporary server issue
+1. **Download all parts** (`.zip`, `.z01`, `.z02`...)
+2. **Open** `Motrix-Setup-1.8.19.zip` with WinRAR, 7-Zip, Ark, or any standard zip tool
+3. **Extract** — all parts combine automatically
+4. Enter the password when prompted
 
 ---
 
