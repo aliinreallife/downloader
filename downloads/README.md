@@ -4,6 +4,8 @@
 - [LocalSend-1.17.0-android-arm64v8](./LocalSend-1.17.0-android-arm64v8)
 - [LocalSend-1.17.0-windows-x86-64](./LocalSend-1.17.0-windows-x86-64)
 - [Motrix-Setup-1.8.19](./Motrix-Setup-1.8.19)
+- [mhrv-rs-android-universal-v1.9.18](./mhrv-rs-android-universal-v1.9.18)
+- [mhrv-rs-windows-amd64](./mhrv-rs-windows-amd64)
 - [v2rayN-windows-64-desktop](./v2rayN-windows-64-desktop)
 - [v2rayNG_2.0.18_universal](./v2rayNG_2.0.18_universal)
 
