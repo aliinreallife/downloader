@@ -6,6 +6,8 @@
 - [LocalSend-1.17.0-windows-x86-64](./LocalSend-1.17.0-windows-x86-64)
 - [Motrix-Setup-1.8.19](./Motrix-Setup-1.8.19)
 - [WhiteDNS-1.0.0-universal](./WhiteDNS-1.0.0-universal)
+- [WhiteDNS-1.1.0-arm64-v8a](./WhiteDNS-1.1.0-arm64-v8a)
+- [WhiteDNS-1.1.0-universal](./WhiteDNS-1.1.0-universal)
 - [ea79567b-069c-4255-b209-8cfa8cd7ad47](./ea79567b-069c-4255-b209-8cfa8cd7ad47)
 - [mhrv-rs-android-universal-v1.9.18](./mhrv-rs-android-universal-v1.9.18)
 - [mhrv-rs-windows-amd64](./mhrv-rs-windows-amd64)
