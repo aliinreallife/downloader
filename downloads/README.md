@@ -5,6 +5,7 @@
 - [LocalSend-1.17.0-android-arm64v8](./LocalSend-1.17.0-android-arm64v8)
 - [LocalSend-1.17.0-windows-x86-64](./LocalSend-1.17.0-windows-x86-64)
 - [Motrix-Setup-1.8.19](./Motrix-Setup-1.8.19)
+- [ShirOKhorshid-2026.05.14](./ShirOKhorshid-2026.05.14)
 - [WhiteDNS-1.0.0-universal](./WhiteDNS-1.0.0-universal)
 - [WhiteDNS-1.1.0-arm64-v8a](./WhiteDNS-1.1.0-arm64-v8a)
 - [WhiteDNS-1.1.0-universal](./WhiteDNS-1.1.0-universal)
